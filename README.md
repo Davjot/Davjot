@@ -12,6 +12,8 @@
 
 - 📫 How to reach me **davjot2001@gmail.com**
 
+- :adult: Pronouns: He/His 
+
 - ⚡ Fun fact **Roaming the world is my thing**
 
 <h3 align="left">Connect with me:</h3>
