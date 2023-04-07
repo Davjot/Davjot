@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Machine Learning**
 
-- 🌱 I’m currently learning **Scikit, Sklearn, OpenCV**
+- 🌱 I’m currently learning **Tensorflow, Keras & OpenCV**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Davjot](https://github.com/Davjot)
 
